@@ -1,5 +1,2 @@
-web/
-backend/
-mobile/
 node_modules/
 package-lock.json
