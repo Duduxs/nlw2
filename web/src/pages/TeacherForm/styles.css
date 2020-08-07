@@ -53,7 +53,7 @@
 
 #page-teacher-form main fieldset .input-block + .textarea-block,
 #page-teacher-form main fieldset .input-block + .input-block{
-    margin-top: 2.4rem;
+    margin-top: 0rem;
 }
 
 #page-teacher-form main label{
